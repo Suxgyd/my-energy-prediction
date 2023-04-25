@@ -1,0 +1,7 @@
+scikit-learn
+datetime
+pytz
+pandas
+keras
+numpy
+paho-mqtt
